@@ -1,0 +1,29 @@
+.box-formularios{
+    background: #f1f2f3;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    box-shadow: none;
+    border: 1px solid #dedede;
+}
+
+.form-control{
+    width: 100%!important;
+}
+
+.some-veiculo{
+    display: none;
+}
+
+.margin-box-input{
+    margin-bottom: 10px;
+}
+
+.modelo, .ano, .preco{
+    margin-bottom: 10px;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.ano, .preco{
+    font-size: 18px;
+}
